@@ -1,0 +1,14 @@
+# Creating a Bootable usb for windows 10 2 sits
+
+## Website 1 : Microsoft
+Link 1: https://techcommunity.microsoft.com/discussions/windowsinsiderprogram/help-how-can-i-make-a-windows-10-bootable-usb-drive/4355083 
+Link 2: https://support.microsoft.com/en-gb/windows/create-installation-media-for-windows-99a58364-8c02-206f-aa6f-40c3b507420d 
+
+As long as you have a USB drive with the right amount of storage (8-10 GB), you can go on Microsfot's Official webtite to download their 'Media Creation Tool' and run it directly. Youll plug in your SUB and select the 'Create Instalation media for another computer'. It will prompt you to answer questions about your language, keyboard ayout, region and architecture, respond according to what you best perfer. The Media Creation Tool can be slow, will not work for older versions of mindows and it only runs on Windows systems. If you use other systems like Apple Mac, Linux or fedora, you will need to find another method.  
+
+## Website 2 : Rufus
+Link: https://ubuntu.com/tutorials/create-a-usb-stick-on-windows#1-overview 
+
+For Rufus you will need a SUB stick of 5GB or larger, microsoft windows XP minimun, and have rufus downloded. 
+
+On Rufus, you will insert your usb stick and it will automatcally put your USB to the device feild (if incorrected you can open the drop down and corect it). Then select an ISO file (the system you'd like, Windows 10), after this, select open. After selecting MBR or GPT. A pop up comes up where Rufus will need additional files, Click yes. Another pop up might come up if Rufus detects that the ISO is a ISOHYBRID Image, click OK and continue. Let it run, it might take 5.15 minutes and will have a full greeen bar that says READY when its done. Click close to complete the precess and youre done. 
