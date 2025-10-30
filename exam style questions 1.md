@@ -7,7 +7,7 @@
 As long as you have a USB drive with the right amount of storage (8-10 GB), you can go on Microsfot's Official webtite to download their 'Media Creation Tool' and run it directly. Youll plug in your SUB and select the 'Create Instalation media for another computer'. It will prompt you to answer questions about your language, keyboard ayout, region and architecture, respond according to what you best perfer. The Media Creation Tool can be slow, will not work for older versions of mindows and it only runs on Windows systems. If you use other systems like Apple Mac, Linux or fedora, you will need to find another method.  
 
 ## Website 2 : Rufus
-Link: https://ubuntu.com/tutorials/create-a-usb-stick-on-windows#1-overview 
+[Link](https://ubuntu.com/tutorials/create-a-usb-stick-on-windows#1-overview) 
 
 For Rufus you will need a SUB stick of 5GB or larger, microsoft windows XP minimun, and have rufus downloded. 
 
